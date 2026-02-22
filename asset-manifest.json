@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chessusingreactandjs/static/css/main.e84382e5.chunk.css",
+    "main.js": "/chessusingreactandjs/static/js/main.2674743e.chunk.js",
+    "main.js.map": "/chessusingreactandjs/static/js/main.2674743e.chunk.js.map",
+    "runtime-main.js": "/chessusingreactandjs/static/js/runtime-main.09c020e7.js",
+    "runtime-main.js.map": "/chessusingreactandjs/static/js/runtime-main.09c020e7.js.map",
+    "static/js/2.34e5385a.chunk.js": "/chessusingreactandjs/static/js/2.34e5385a.chunk.js",
+    "static/js/2.34e5385a.chunk.js.map": "/chessusingreactandjs/static/js/2.34e5385a.chunk.js.map",
+    "static/js/3.ea57e643.chunk.js": "/chessusingreactandjs/static/js/3.ea57e643.chunk.js",
+    "static/js/3.ea57e643.chunk.js.map": "/chessusingreactandjs/static/js/3.ea57e643.chunk.js.map",
+    "index.html": "/chessusingreactandjs/index.html",
+    "static/css/main.e84382e5.chunk.css.map": "/chessusingreactandjs/static/css/main.e84382e5.chunk.css.map",
+    "static/js/2.34e5385a.chunk.js.LICENSE.txt": "/chessusingreactandjs/static/js/2.34e5385a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09c020e7.js",
+    "static/js/2.34e5385a.chunk.js",
+    "static/css/main.e84382e5.chunk.css",
+    "static/js/main.2674743e.chunk.js"
+  ]
+}
